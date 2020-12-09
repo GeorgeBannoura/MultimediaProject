@@ -1,0 +1,65 @@
+li{
+  font-size: 1.5 rem;
+}
+.alqudsImg{
+  height:50px;
+  width:50px;
+  margin-right: 10px;
+}
+#hdr{
+  background-color: #40a8c4;
+  padding: 50px;
+}
+.headTalk{
+  line-height: 3.5rem;
+  font-size: 3.5rem;
+  text-align: left;
+}
+.CEImg{
+width: 515px;
+height: 359px;
+}
+#intro{
+  text-align: center;
+  padding: 50px;
+}
+.icon{
+  font-size: 3.5rem;
+  color:#66bfbf;
+}
+.icon:hover{
+  color:#056674;
+}
+#futureWork{
+  background-color: #16697a;
+}
+.futureImg{
+  width:500px;
+  height:307px;
+  position: absolute;
+}
+.futureImgOne{
+  right:0;
+}
+.futureImgTwo{
+  left:0;
+}
+.rowFuture{
+
+  border: 1px green solid;
+  background-color: white;
+}
+.col{
+  font-size: 1.5rem;
+}
+.btn{
+  margin: 5px;
+}
+#studyFields{
+  padding-top: 10px;
+  background-color: #16a596;
+}
+#footer{
+  text-align: center;
+  background-color: #c75643;
+}

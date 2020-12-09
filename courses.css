@@ -1,0 +1,36 @@
+.alqudsImg{
+  height:50px;
+  width:50px;
+  margin-right: 10px;
+}
+.container-fluid{
+  text-align: center;
+  padding: 0 150px;
+  margin: 0;
+
+}
+#intro{
+  background-color: #a6f6f1;
+  margin: 0;
+}
+#courses{
+  background-color: #16a596;
+  padding: 25px;
+}
+#Reg{
+  text-align: center;
+  background-color: #16a596;
+  padding: 20px;
+
+}
+#footer{
+  text-align: center;
+  background-color: #a6f6f1;
+  padding: 20px;
+}
+input{
+  margin: 10px;
+}
+.btn{
+  margin: 10px;
+}
